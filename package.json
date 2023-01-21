@@ -2,7 +2,7 @@
   "name": "my-icecream",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/my-icecream",
+  "homepage": "https://Alexlunarr.github.io/my-icecream",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /my-icecream/"
